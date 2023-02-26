@@ -1,5 +1,5 @@
 # Word_Bucket
-It is an user friendly Social-Media Application which is used to make connections all over the world.
+It is an user friendly Social-Media Application which is used to make connections all over the world. It can provide Chat boxes to chat with each others. It provides safety with user account like no can see your profile without following.
 
 
 #1 - First Page
